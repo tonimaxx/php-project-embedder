@@ -1,5 +1,6 @@
 # Ignore all files ending with an underscore
 *__
+_/
 
 # Other common ignores for a PHP project
 /vendor/
