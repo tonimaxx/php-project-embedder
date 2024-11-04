@@ -1,0 +1,10 @@
+# Ignore all files ending with an underscore
+*_*
+
+# Other common ignores for a PHP project
+/vendor/
+*.log
+*.tmp
+*.cache
+.DS_Store
+.env
